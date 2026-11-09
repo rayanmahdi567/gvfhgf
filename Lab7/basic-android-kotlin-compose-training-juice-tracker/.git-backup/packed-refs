@@ -1,0 +1,17 @@
+# pack-refs with: peeled fully-peeled sorted 
+81529b7ac994d5fd235f0780207d065f86f34310 refs/remotes/origin/compose-starter
+271e6fc190ab8540a669e9c11e176b7c8f08dc07 refs/remotes/origin/compose-with-views
+ea3e2928c380e0ac10b600466270188100b35d5e refs/remotes/origin/jv/update_workflow
+0050f6e4e7bf41bdd0e86bd9b1c95c7c43d52ad7 refs/remotes/origin/m2-compose-starter
+b75bd88f48074a033214505da57cff66a1c3527b refs/remotes/origin/m2-compose-with-views
+733943d4588dd4243f52097e2e8dc4dc916cd24c refs/remotes/origin/m2-views
+125720071f74d33fbc4cc723188103fbd76c1fa1 refs/remotes/origin/m2-views-starter
+144488f77e2a4d696e0e2e1a1e83d78366af6580 refs/remotes/origin/m2-views-with-compose
+85105f0a42917165ebf0642f349072d8101fd2f7 refs/remotes/origin/renovate/compose-starter-all
+dceac7a6a24e0ea6dbb3b6f68b76325aac190940 refs/remotes/origin/renovate/compose-with-views-all
+b232fb97d4b107146158b0067fe30bd4e8da28d9 refs/remotes/origin/renovate/views-all
+aeabe6734db79a9d0ed141c0a8023cb6e39762bb refs/remotes/origin/renovate/views-starter-all
+13ca5bb3adf454b0176bbd8e24a127b7188a680a refs/remotes/origin/renovate/views-with-compose-all
+97a3bb7853d2d701bc8163556c307b7bdfb28296 refs/remotes/origin/views
+aeddc3176df9643625325aa283c93490ba0462b0 refs/remotes/origin/views-starter
+49b4f751a53879cdc311bb72ab71715a30418492 refs/remotes/origin/views-with-compose
